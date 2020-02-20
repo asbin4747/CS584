@@ -61,27 +61,4 @@ border-radius: 3px;
  box-shadow: 0 2px 2px;  
 }
 
-table{
-border-collapse: collpase;
-width : 50%;
-margin: 50px auto;
-background-color: burlywood;
-}
-
-table, th, td{
-border: 2px solid black;
-padding: 5px;
-}
-
-th{
-font-size: 20 px;
-font-weight:700;
-font-family: Arial;
-}
-td{
-font-size: 20px;
-color:crimson;
-font-weight:400;
-font-family: Arial;
-}
 
