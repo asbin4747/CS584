@@ -1,0 +1,87 @@
+body {
+  font-family: Arial, Helvetica, Sans-serif;
+  font-size: 100%;
+  font-size: large;
+  width: 100%;
+  margin: 0 auto;
+  padding: 1em;
+  background-color: #b3ffff;
+  background-position: center;
+}
+
+h3{
+color: #ff1a42; 
+
+}
+.Login{
+font-size: 22px;
+width: 60%;
+position: relative;
+margin: 0 auto 20px;
+padding: 16px;
+background-color: #F5F5F5;
+font-weight: 550;
+
+}
+
+
+
+.Login input[type=text]{
+width: 48%;
+outline: 1;
+border: 0;
+margin: 0 0 15px;
+padding: 5px;
+font-size: 16px;
+color: #191919;
+height: 23px;
+font-weight: light;
+}
+
+select{
+padding: .4em 1em .5em 1em;
+width: 50%;
+text-align: left;
+box-sizing: order-box;
+border: 1.75px solid #555;
+border-radius: 3px;
+}
+
+.button{
+ width: 100px;
+ height:50px;
+ cursor: pointer;
+ font-weight: bold;
+ font-family: "Roboto", sans-serif;
+ text-align: center;
+ margin: 10px 0;
+ background-color:#001a66;
+ color: whitesmoke;
+ font-size: 19px;
+ box-shadow: 0 2px 2px;  
+}
+
+table{
+border-collapse: collpase;
+width : 50%;
+margin: 50px auto;
+background-color: burlywood;
+}
+
+table, th, td{
+border: 2px solid black;
+padding: 5px;
+}
+
+th{
+font-size: 20 px;
+font-weight:700;
+font-family: Arial;
+}
+td{
+font-size: 20px;
+color:crimson;
+font-weight:400;
+font-family: Arial;
+}
+
